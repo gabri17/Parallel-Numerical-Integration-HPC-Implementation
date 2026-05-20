@@ -27,7 +27,7 @@ Software setup:
 - Operating system CentOS Linux 7.9
 - Scheduler openPBS 19.1
 
-# Code execution - OUR algorithm
+# Code execution - Hybrid algorithm
 
 To run the code, relies on the following bash files:
 - <a href="group_implementation/serial_impl/serial_implementation.sh">serial_implementation.sh</a>: to run the SERIAL version
